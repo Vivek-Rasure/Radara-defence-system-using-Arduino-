@@ -1,6 +1,6 @@
 # Radara-defence-system-using-Arduino-
 
-##How to do it
+## How to do it
 
-###Looks
+### Looks
 
