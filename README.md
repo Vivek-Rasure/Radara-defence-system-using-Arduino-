@@ -1,9 +1,10 @@
 # Radara-defence-system-using-Arduino-
 | Code is made with Arduino Uno using C++  
 
-## How to do it
-1.you need to have knowladge about Arduino 
-
+## Tools needed
+1. You need to have knowladge about Arduino IDE  
+2. Basic Trigonometry 
+3. Interfacing sesors and LCD
 
 ### How it Looks
 
