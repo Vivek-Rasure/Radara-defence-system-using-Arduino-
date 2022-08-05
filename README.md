@@ -1,5 +1,5 @@
 # Radara defence system using-Arduino Uno
-| Code is made with Arduino Uno using C++  
+| Code is made with Arduino IDE using C++  
 
 ## Tools needed
 1. You need to have knowladge on Arduino IDE  
