@@ -1,10 +1,10 @@
-# Radara-defence-system-using-Arduino
+# Radara-defence-system-using-Arduino Uno
 | Code is made with Arduino Uno using C++  
 
 ## Tools needed
-1. You need to have knowladge about Arduino IDE  
+1. You need to have knowladge on Arduino IDE  
 2. Basic Trigonometry 
-3. Interfacing sensors and LCD with Arduion 
+3. Interfacing sensors and LCD with Arduion Uno
 ## Construction and Working 
  * There are two Servo motors, one is for Ultrasonic Radar and another for Laser.
  * Radar rotate through 130 degree and find obstacle in perticular a range and gives the angle and distance to arduino for further operation.
