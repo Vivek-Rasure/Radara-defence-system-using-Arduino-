@@ -1,4 +1,4 @@
-# Radara defence system using-Arduino Uno
+# Radar defence system using-Arduino Uno
 | Code is made with Arduino IDE using C++  
 
 ## Tools needed
